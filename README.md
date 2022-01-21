@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piotrektnw, located in Kraków/Poland
+- 👋 Hi, I’m @piotrektnw, located in Kraków/Poland. Frontend freelance developer 
 - 👀 I’m interested in widening my horizons in IT area and starting my first job in IT.
 - 🌱 I’m currently mastering my frontend skills.
 - 💞️ I’m looking to collaborate on opensource projects. 
