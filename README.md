@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piotrektnw, located in Kraków/Poland. Freelance frontend developer.
 - 👀 I’m interested in widening my horizons in IT area.
 - :computer: I'm working as a Web Specialist.
-- 🌱 I’m currently mastering my frontend skills.
+- :blue_book: I learn everyday.
 - 💞️ I’m looking to collaborate on opensource projects. 
 - 📫 How to reach me: piotrpanek89@outlook.com
 
